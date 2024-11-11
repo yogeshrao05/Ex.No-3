@@ -1,6 +1,8 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
-# Date: 7/10/2024
+# Date: 19/09/2024
+ 
 # NAME: YOGESH RAO S D
+ 
 # reg no:212222110055
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
